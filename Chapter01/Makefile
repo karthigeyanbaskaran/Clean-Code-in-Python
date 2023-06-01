@@ -16,3 +16,6 @@ setup:
 	$(VIRTUAL_ENV)/bin/pip install -r requirements.txt
 
 .PHONY: typehint test lint checklist black
+
+
+**************************EDITED)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
